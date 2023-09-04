@@ -1,0 +1,38 @@
+*{
+    background-color: rgb(141, 210, 30);
+    color:whitesmoke;
+    
+}
+img
+{
+    border-radius: 50%;
+    background-color: black ;
+    border: 2px black;
+}
+table, th, td {
+    border: 1px solid;
+    width: 20%;
+    height: 20px;
+    text-align: center;
+    border-color: black;
+    
+  }
+  h2{
+    color: black;
+  }
+  h3{
+    color: black;
+  }
+  
+ .email-link{
+    color: blue;
+ }
+ #education th{
+  color: black;
+  
+}
+.projects dt{
+   color: black;
+}
+
+  
